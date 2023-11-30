@@ -82,7 +82,7 @@ body {
  */
 a,
 a:visited {
-  color: #000000;
+  color: #6e6e6e;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   -webkit-transition: all 0.3s ease-in-out;
@@ -92,7 +92,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: #ff0077;
+  color: #f1f1f1;
   outline: 0;
 }
 
